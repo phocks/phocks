@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const { render } = require("prettyjson");
 const data = require("./lib/data");
 
