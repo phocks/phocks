@@ -1,3 +1,12 @@
 #!/usr/bin/env node
 
-console.log("Hi I'm Josh. Find me @phocks on Twitter dot com")
+const { render } = require('prettyjson')
+const data = require('./lib/data')
+
+const renderOpts = {
+  keysColor: 'rainbow',
+  dashColor: 'magenta',
+  stringColor: 'green'
+}
+
+module.exports = () => render(data, renderOpts)
