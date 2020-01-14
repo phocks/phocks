@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 
-const { render } = require('prettyjson')
-const data = require('./lib/data')
+const { render } = require("prettyjson");
+const data = require("./lib/data");
 
 const renderOpts = {
-  keysColor: 'rainbow',
-  dashColor: 'magenta',
-  stringColor: 'green'
-}
+  keysColor: "rainbow",
+  dashColor: "magenta",
+  stringColor: "green"
+};
 
-module.exports = () => render(data, renderOpts)
+module.exports = () => render(data, renderOpts);

@@ -1,2 +1,2 @@
-const pkg = require('.')
-console.log(pkg())
+const pkg = require("./index");
+console.log(pkg());
