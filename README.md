@@ -1,4 +1,1 @@
-phocks
-======
-
-A contact card app.
+This is a placeholder for a proper profile README.md a new feature in GitHub which you can enable by creating a repo the same as your username and then creating a README file in that repo. Stay tuned!
