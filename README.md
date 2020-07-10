@@ -7,7 +7,7 @@
     <br>building new things. I like plant-based food
     <br>and sometimes I make music etc. :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/phocks">Twitter</a>
   </samp>
 </p>
 
