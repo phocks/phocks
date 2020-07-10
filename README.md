@@ -13,5 +13,5 @@
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
-  This year has been crazy and I think it's only going to get crazier. Anything I achive this year will be great. Hopefully we buy a little house so we have somewhere to raise our daughter Vada.
+  <br>This year has been crazy and I think it's only going to get crazier. Anything I achive this year will be great. Hopefully we buy a little house so we have somewhere to raise our daughter Vada.
 </details>
