@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-    :wave: Hi! I'm Josh and do code for ABC News.
+    :wave: Hi! I'm Josh and do code for <a href="https://www.abc.net.au/news">ABC News</a>.
     <br><br>I'm currently doing stories and stuff and building new things.
     <br> I like animals and sometimes I make music etc. :sparkles:<br>
     <!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
