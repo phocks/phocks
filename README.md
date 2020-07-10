@@ -4,7 +4,7 @@
   <samp>
     :wave: Hi! I'm Josh and do code for ABC News.
     <br><br>I'm currently doing stories and stuff and building new things.
-    <br> I like plant-based food and sometimes I make music etc. :sparkles:<br>
+    <br> I like animals and sometimes I make music etc. :sparkles:<br>
     <!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
     <img src="https://i.imgur.com/vP0qxPQ.gif" width="240px" align="center"><br>
     <br><br>🦜 Wanna chat? :point_right: @ me on <a href="https://twitter.com/phocks">twitter</a>
