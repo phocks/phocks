@@ -8,7 +8,8 @@
     <!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
     <img src="https://i.imgur.com/vP0qxPQ.gif" width="240px" align="center"><br>
     <br><br>🦜 Would you like to know more? :point_right: Follow me on <a href="https://twitter.com/phocks">twitter</a>
-    <br>:money_with_wings: Got a dollar and a kind heart? Sponsor my open-source projects <a href="https://github.com/sponsors/phocks">here</a>. (and be sure to follow my current sponsors).
+    <br>:money_with_wings: Got a dollar and a kind heart? Sponsor my open-source projects <a href="https://github.com/sponsors/phocks">here</a>.<br>
+    (and be sure to follow my current sponsors).
   </samp>
 </p>
 
