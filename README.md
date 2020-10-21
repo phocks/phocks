@@ -13,8 +13,10 @@
   </samp>
 </p>
 
+<details>
+  <summary><b>:alien: Send encrypted emails...</b></summary>
 <p>
-Send encrypted emails to phocks@gmail.com
+...to phocks@gmail.com
   
 <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: FlowCrypt [BUILD_REPLACEABLE_VERSION] Gmail Encryption
@@ -32,9 +34,9 @@ Am+1PsCxsIOZdqUWXw6H2wD+IBcGA1niCCYcVNpvygZDlJ/fZZtvVGpV1FH3
 uj2OXws=
 =BIZW
 -----END PGP PUBLIC KEY BLOCK-----</pre>
-  
-  
+
 </p>
+</details>
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
