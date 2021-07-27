@@ -35,6 +35,7 @@ uj2OXws=
 =BIZW
 -----END PGP PUBLIC KEY BLOCK-----</pre>
 
+... or byrd.joshua@protonmail.com
 </p>
 </details>
 
