@@ -16,6 +16,29 @@
 <details>
   <summary><b>:alien: Send encrypted emails...</b></summary>
 <p>
+... to byrd.joshua@protonmail.com
+  
+<pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+xjMEYF2BEhYJKwYBBAHaRw8BAQdAWpy2cIsi9Y57t8JnOEQHXCpgFB3O89Xj
+HI2BGtdIAufNN2J5cmQuam9zaHVhQHByb3Rvbm1haWwuY29tIDxieXJkLmpv
+c2h1YUBwcm90b25tYWlsLmNvbT7CjwQQFgoAIAUCYF2BEgYLCQcIAwIEFQgK
+AgQWAgEAAhkBAhsDAh4BACEJEJYPbZKZP6RyFiEElrpHpjATi/4qCDtUlg9t
+kpk/pHKcewEArEW4tTvC43OPryFjqPyHAR1c50uXW8VUqh2A1GB0hFgA/2k7
+QqK3VeK5Sme+2drZw7xoamm0HBzDjLj3lyM+L20JzjgEYF2BEhIKKwYBBAGX
+VQEFAQEHQEIzRY9JrBrYHk0bteV+jgBwF4gSqJTYa5KzL0fvRwwQAwEIB8J4
+BBgWCAAJBQJgXYESAhsMACEJEJYPbZKZP6RyFiEElrpHpjATi/4qCDtUlg9t
+kpk/pHKitgD/Woy5bm/diJ8qvuZbDJ+HlUsEd5OyhIEqf7HFogDKGcgBAIHj
+h63y8ZQN0xsuYQmPBNMug8xpbD2NRbVk+f906EUA
+=GWB6
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+ </p>
+ 
+ 
+ <p>
+  
 ...to phocks@gmail.com
   
 <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -35,7 +58,7 @@ uj2OXws=
 =BIZW
 -----END PGP PUBLIC KEY BLOCK-----</pre>
 
-... or byrd.joshua@protonmail.com
+
 </p>
 </details>
 
