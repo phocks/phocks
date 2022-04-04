@@ -62,6 +62,7 @@ sUQM
 </details>
 
 <details>
-  <summary><b>:telescope: 2021 goal</b></summary>
-  <br>This year has been crazy and I think it's only going to get crazier. Anything I achive this year will be great. Hopefully we buy a little house so we have somewhere to raise our daughter Vada.
+  <summary><b>:telescope: 2022 goal</b></summary>
+  <p>2022: Things are getting back to normal slowly. I want to find some stability this year.</p>
+  <p>2021: This year has been crazy and I think it's only going to get crazier. Anything I achive this year will be great. Hopefully we buy a little house so we have somewhere to raise our daughter Vada.</p>
 </details>
