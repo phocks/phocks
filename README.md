@@ -66,3 +66,13 @@ sUQM
   <p>2022: Things are getting back to normal slowly. I want to find some stability this year.</p>
   <p>2021: This year has been crazy and I think it's only going to get crazier. Anything I achive this year will be great. Hopefully we buy a little house so we have somewhere to raise our daughter Vada.</p>
 </details>
+
+And here's a flowchart for fun!
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
