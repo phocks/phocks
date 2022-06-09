@@ -67,7 +67,7 @@ sUQM
   <p>2021: This year has been crazy and I think it's only going to get crazier. Anything I achive this year will be great. Hopefully we buy a little house so we have somewhere to raise our daughter Vada.</p>
 </details>
 
-And here's a flowchart for fun!
+And some charts for fun!
 
 ```mermaid
   graph TD;
@@ -75,4 +75,13 @@ And here's a flowchart for fun!
       A-->C;
       B-->D;
       C-->D;
+```
+
+```mermaid
+pie showData
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
 ```
