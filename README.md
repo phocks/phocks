@@ -16,22 +16,20 @@
 <details>
   <summary><b>:alien: Send encrypted emails...</b></summary>
 <p>
-... to byrd.joshua@protonmail.com
+... to byrd.joshua@proton.me
   
 <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: OpenPGP.js v4.10.10
-Comment: https://openpgpjs.org
 
-xjMEYjk3CxYJKwYBBAHaRw8BAQdA+o/ag7KmJdgkgJLQCVnOP4p5zFw5qnfj
-cn71Rt5GzKrNKEpvc2h1YSBCeXJkIDxieXJkLmpvc2h1YUBwcm90b25tYWls
-LmNvbT7CdwQQFgoAHwUCYjk3CwYLCQcIAwIEFQgKAgMWAgECGQECGwMCHgEA
-CgkQZmChwDdG6iLUbAD+ONXg7p1l2v8/FcaKvr8aJ4LNuTzkLqiTIK2xlH/F
-RSIA/2st5shNFpmVqLRsk7XBcfQkFjiFlxSBV00EXNUrYZgJzjgEYjk3CxIK
-KwYBBAGXVQEFAQEHQLCphz4B9fp6iz9yMZ2arghCDFRNkbxWatX1liDv1L51
-AwEIB8JhBBgWCAAJBQJiOTcLAhsMAAoJEGZgocA3RuoiOPkBAPyIfBmZweyp
-+1KY3Ni0rDakOI3Yn0Zgtdg2b7mBqDWxAQD/uulXkvQfrq/PQ/hOTO1U1fnA
-HPwbAiFnoQlfO+fxBw==
-=NZVx
+xjMEYp781hYJKwYBBAHaRw8BAQdAiI3yr0FupLJGBhmKPf4/ehfwCZDMgAYD
+AVwrG/gT5pHNI0pvc2h1YSBCeXJkIDxieXJkLmpvc2h1YUBwcm90b24ubWU+
+wncEEBYKAB8FAmKe/NYGCwkHCAMCBBUICgIDFgIBAhkBAhsDAh4BAAoJEL7t
+y69386P39vUBAO7jFnLmof19VYvTSfxo5y4RMCLb79acXiNq1FhZce/9APwI
+fVzWNvjY4YLWwVHC5blNl0Rc99DYaTVZYmU7HyCOB844BGKe/NYSCisGAQQB
+l1UBBQEBB0C6xTD0nA0eSTSoXgjXcZmXeSb30JJ1OvQtDeUsi2N8CAMBCAfC
+YQQYFggACQUCYp781gIbDAAKCRC+7cuvd/Oj96k5AP0WB3wfZDt73eyynPZg
+Zp817CTcGIxUOIRn/b87KBTI1QD/ZubxOvBaeIXpsrTP7mCZpSWMhBUfHSq4
+COxwR+jE0Q4=
+=OrkC
 -----END PGP PUBLIC KEY BLOCK-----</pre>
  </p>
  
