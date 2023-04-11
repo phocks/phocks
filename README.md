@@ -1,17 +1,27 @@
 <p>
 <!--   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> -->
 <!--   <br><br> -->
+  
   <samp>
+    :wave: Hi there! My name is Josh, and I'm a coder at <a href="https://www.abc.net.au/news">ABC News</a>. I'm passionate about crafting compelling stories and building new things.
+    <br><br>When I'm not at my computer, I love spending time with animals, making music, and exploring the great outdoors. :sparkles:
+    <br><br>🦜 Want to learn more? Follow me on <a href="https://bne.social/@phocks">The Fediverse</a> or check out my latest projects here on GitHub.<br>
+    <img src="https://i.imgur.com/vP0qxPQ.gif" width="240px" align="center"><br>
+    <br>:money_with_wings: If you're feeling generous, please consider sponsoring my open-source projects <a href="https://github.com/sponsors/phocks">here</a> (and be sure to check out my current sponsors)!
+  </samp>
+  
+
+</p>
+
+<!--   <samp>
     :wave: Hi! I'm Josh and do code for <a href="https://www.abc.net.au/news">ABC News</a>.
     <br><br>I'm currently doing stories and stuff and building new things.
     <br> I like animals and sometimes I make music etc. :sparkles:<br>
-    <!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
     <img src="https://i.imgur.com/vP0qxPQ.gif" width="240px" align="center"><br>
     <br><br>🦜 Would you like to know more? :point_right: Follow me on <a href="https://twitter.com/phocks"><strike>twitter</strike></a> <a rel="me" href="https://xerg.ga/@josh">The Fediverse</a>!
     <br>:money_with_wings: Got a dollar and a kind heart? Sponsor my open-source projects <a href="https://github.com/sponsors/phocks">here</a>.<br>
     (and be sure to follow my current sponsors).
-  </samp>
-</p>
+  </samp> -->
 
 <details>
   <summary><b>:alien: Send encrypted emails...</b></summary>
