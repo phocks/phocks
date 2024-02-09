@@ -70,7 +70,8 @@ sUQM
 </details>
 
 <details>
-  <summary><b>:telescope: 2023 goal</b></summary>
+  <summary><b>:telescope: 2024 goal</b></summary>
+  <p>2024: Settle into a good groove and ride out the rest of the year.</p>
   <p>2023: I am setting myself small goals. I wanna get good at programming in Rust. I wanna learn all the Tarot cards. I wanna chill out some more.</p>
   <p>2022: Things are getting back to normal slowly. I want to find some stability this year.</p>
   <p>2021: This year has been crazy and I think it's only going to get crazier. Anything I achive this year will be great. Hopefully we buy a little house so we have somewhere to raise our daughter Vada.</p>
