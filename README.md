@@ -5,7 +5,7 @@
   <samp>
     :wave: Hi there! My name is Josh, and I'm a coder at <a href="https://www.abc.net.au/news">ABC News</a>. I'm passionate about crafting compelling stories and building new things.
     <br><br>When I'm not at my computer, I love spending time with animals, making music, and exploring the great outdoors. :sparkles:
-    <br><br>🦜 Want to learn more? Follow me on <a href="https://bne.social/@phocks">The Fediverse</a> or check out my latest projects here on GitHub.<br>
+    <br><br>🦜 Want to learn more? Follow me in <a href="https://bne.social/@phocks">The Fediverse</a> or check out my latest projects here on GitHub.<br>
     <img src="https://i.imgur.com/vP0qxPQ.gif" width="240px" align="center"><br>
     <br>:money_with_wings: If you're feeling generous, please consider sponsoring my open-source projects <a href="https://github.com/sponsors/phocks">here</a> (and be sure to check out my current sponsors)!
   </samp>
